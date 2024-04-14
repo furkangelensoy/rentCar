@@ -45,7 +45,7 @@ https://github.com/furkangelensoy/rentCar.git
 <summary>Car Tab Menu</summary>
 <br>
   
-* ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/4.png)
+* ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/24.png)
 * ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/6.png)
 
 </details>
