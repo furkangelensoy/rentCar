@@ -22,31 +22,71 @@ https://github.com/furkangelensoy/rentCar.git
 ```
 
 <details close>
+<summary>Login</summary>
+<br>
+
+* You can login with username = "admin", password = "123". Also if you want, you can save new user on user table and you can login with new user information.
+
+  ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/15.PNG)
+
+</details>
+
+<details close>
 <summary>Brand Tab Menu</summary>
 <br>
-  
-* ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/15.PNG)
-* ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/14.png)
-* ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/13.png)
+
+* Brands appear here. You can add, update or delete a brand with Jpopupmenu.
+  ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/14.png)
+* If you want to add or update a brand, you must enter a name.
+  ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/13.png)
 
 </details>
 
 <details close>
 <summary>Model Tab Menu</summary>
 <br>
-  
-* ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/1.png)
-* ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/2.PNG)
-* ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/3.PNG)
+
+* Models appear here. You can add, update or delete model with Jpopupmenu.
+  ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/2.PNG)
+* If you want to add or update a model, you must fill the all fields.  
+  ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/1.png)
+* You can search model according to filter.
+  ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/3.PNG)
 
 </details>
 
 <details close>
 <summary>Car Tab Menu</summary>
 <br>
-  
-* ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/24.png)
-* ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/6.png)
+
+* Cars appear here. You can add, update, delete a car with Jpopupmenu.
+  ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/24.png)
+* If you wanto add or update a car, you must fill the all fields.
+  ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/6.png)
 
 </details>
+
+<details close>
+<summary>Booking Tab Menu</summary>
+<br>
+  
+* Available cars appear here. You can search booking according to (reservation date, car type, gear type, fuel type) filter.
+  ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/5.png)
+* You can create a booking on available vehicles.   
+  ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/0.png)
+
+</details>
+
+<details close>
+<summary>Rentals Tab Menu</summary>
+<br>
+
+* Bookings appear here. You can delete a booking with Jpopupmenu.
+  ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/7.png)
+* You can search bookings according to plates.
+  ![](https://github.com/furkangelensoy/rentCar/blob/master/screenShots/8.png)
+
+</details>
+
+
 
