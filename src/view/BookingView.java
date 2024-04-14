@@ -6,8 +6,6 @@ import entity.Book;
 import entity.Car;
 
 import javax.swing.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
@@ -53,13 +51,6 @@ public class BookingView extends Layout{
         this.fld_book_start_date.setText(start_date);
         this.fld_book_finish_date.setText(finish_date);
 
-        //test
-        this.fld_book_name.setText("F F");
-        this.fld_book_idno.setText("1234");
-        this.fld_book_mail.setText("test@patika.dev");
-        this.fld_book_mpno.setText("12321");
-        this.fld_book_price.setText("13");
-        this.fld_book_note.setText("Note");
 
         btn_book_create.addActionListener(e -> {
             JTextField[] checkFieldList = {
